@@ -1,15 +1,4 @@
 .main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  min-height: 300vh;
-  container-type: inline-size;
-  container-name: nestedContainer;
-}
-
-.container {
-  max-width: 1700px;
-  margin: 0 auto;
+  padding: 30px;
 }
 

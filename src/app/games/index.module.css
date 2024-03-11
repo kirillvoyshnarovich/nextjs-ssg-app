@@ -1,0 +1,30 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 30px;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.listItem {
+    padding: 5px;
+    width: auto;
+    display: flex;
+    margin: 0 auto;
+}
+
+.gameTitle {
+    display: block;
+    margin-bottom: 3px;
+}

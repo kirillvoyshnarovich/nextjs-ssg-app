@@ -31,10 +31,5 @@ body {
   overflow-x: hidden;
   font-family: "Graphik LC Web Regular";
   font-size: 16px;
-  color: rgb(var(--tangem-main-white));
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+  color: #000;
 }
